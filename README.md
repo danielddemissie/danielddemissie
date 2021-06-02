@@ -12,7 +12,7 @@ I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing an
 - 🤔 I’m looking forward to work with anyone intersted in web-dev
 - 📫 How to reach me: danielddemissie@gmail.com.
 
-#### Top Technologies i work on
+#### Top Technologies i worked on
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
