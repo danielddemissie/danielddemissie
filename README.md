@@ -4,6 +4,7 @@ I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing an
 
 :mailbox: Reach me out!
 </br>
+
 [![Mail Badge](https://img.shields.io/badge/-danielddemissie-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:danielddemissie@gmail.com)
 
 <!-- TODO: Add last video link -->
