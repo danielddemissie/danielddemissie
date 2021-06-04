@@ -21,4 +21,4 @@ I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing an
 [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielddemissie)](https://github.com/anuraghazra/github-readme-stats)
+
