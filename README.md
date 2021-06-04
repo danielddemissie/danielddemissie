@@ -1,4 +1,4 @@
-## Hi I'm Daniel ## Hi I'm Islem <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
+## Hi I'm Daniel <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" width="28px" alt="hi">
 
 I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing and implemeting latest web technologies.
 
@@ -12,7 +12,7 @@ I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing an
 - 🤔 I’m looking forward to work with anyone intersted in web-dev
 - 📫 How to reach me: danielddemissie@gmail.com.
 
-#### Top Technologies
+#### Top Technologies i worked on
 
 <!-- TODO: Make technologies links takes you to repositories -->
 
@@ -23,3 +23,7 @@ I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing an
 #### Top Languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danielddemissie)](https://github.com/anuraghazra/github-readme-stats)
+
+#### Git status
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=danielddemissie)](https://github.com/anuraghazra/github-readme-stats)
