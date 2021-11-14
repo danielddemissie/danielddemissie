@@ -9,7 +9,7 @@ I'm Daniel Demelash a Full Stack Web Developer . I Spend most of time studing an
 
 <!-- TODO: Add last video link -->
 
-- 🔭 I’m currently studing CSE at Adama Science and Technology University
+- 🔭 I’m currently studying CSE at Adama Science and Technology University
 - 🤔 I’m looking forward to work with anyone intersted in web-dev
 - 📫 How to reach me: danielddemissie@gmail.com.
 
