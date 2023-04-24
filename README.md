@@ -1,13 +1,13 @@
 <h1>
-  hey there
+  Hey there
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Ethiopia.
+I'm Daniel a Full-stack web Developer.
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+- :telescope: I’m currently working as a Software Developer @phishfort.com
 
-- :seedling: Exploring Machine Learning.
+- :seedling: Exploring Web3 & Crypto.
 
 - :zap: In my free time, I solve problems on leetcode and read tech articles.
 
