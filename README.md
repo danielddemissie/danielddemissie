@@ -1,4 +1,5 @@
-## I'm Daniel,  middle fullstack typeScript developer
-Building good quality softwares with **TypeScript**, **React/Next.js**, and **Node.js**. I t
+## I'm Daniel,  fullstack typeScript developer. 
+Building good quality softwares with **TypeScript**, **React/Next.js**, and **Node.js** I'm currenlty working as mid-level software developer `(Almost there to be a senior developer 😅)` 
 
+### My contribution stats? HERE:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=danielddemissie&theme=dark&hide_border=true)](https://git.io/streak-stats)
